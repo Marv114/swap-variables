@@ -1,0 +1,6 @@
+items=['Book','Pen','Scissors','Socket','Squared','Board','Marker','Duster','Table','Adapter']
+for name in items:
+    print(name)
+name='Table'
+for i in 'Table':
+    print(i)
