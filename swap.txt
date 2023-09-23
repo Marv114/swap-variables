@@ -1,0 +1,7 @@
+a=input("enter the value of a:\n")
+b=input("enter the value of b:\n")
+temp=a
+a=b
+b=temp
+print("a=" +a)
+pprint("b=" =b)
