@@ -1,0 +1,3 @@
+print(int("10")+int("10"))#displays data type as string
+print("\n10"+"10")#displays output as string
+print(10 + float("10"))#displays an integer and string
