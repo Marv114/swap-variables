@@ -1,0 +1,2 @@
+greet ="hello there welcome to github"
+print (greet[12])
